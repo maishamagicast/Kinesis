@@ -1,0 +1,7 @@
+{
+  "pinchThreshold": 0.05,
+  "swipeThreshold": 0.15,
+  "cooldownMs": 800,
+  "enableLaserPointer": true,
+  "smoothingFactor": 0.5
+}
